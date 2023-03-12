@@ -1,2 +1,2 @@
-# animated
-Click to visit website: https://arafatthemaster.github.io/animated/
+# Animated
+**Click to Visit** website: https://arafatthemaster.github.io/animated/
